@@ -1,0 +1,34 @@
+.experince_container {
+  width: 100vw;
+}
+
+.experince_box {
+  width: 70%;
+  background-color: whitesmoke;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  margin: 45px auto;
+  padding: 20px 25px;
+}
+
+.experince_title {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Mikhak;
+}
+
+.experince_items {
+  list-style: none;
+  margin: 10px 20px;
+  line-height: 2;
+}
+
+.experince_items a {
+  text-decoration: none;
+  color: black;
+}
+
+.experince_items a:hover {
+  color: red;
+}

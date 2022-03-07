@@ -1,0 +1,97 @@
+.skill_container {
+  width: 100vw;
+}
+
+.skill_box {
+  width: 70%;
+  background-color: whitesmoke;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  margin: 45px auto;
+  padding: 20px 25px;
+}
+
+.skill_title {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Mikhak;
+}
+
+.skills_item {
+  margin: 25px;
+  list-style: none;
+  direction: ltr;
+  margin: 0 auto;
+}
+
+.skills_item li {
+  direction: ltr;
+  line-height: 2.5;
+}
+.box {
+  width: 150px;
+  height: 8px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  margin-left: 20px;
+  margin-bottom: 15px;
+  direction: ltr;
+}
+
+/* .color_box {
+  height: 6px;
+  background-color: darkolivegreen;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+} */
+.color_box_html {
+  width: 90%;
+  height: 6px;
+  background-color: darkolivegreen;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.color_box_css {
+  /* height: 7px; */
+  width: 90%;
+  height: 6px;
+  background-color: darkolivegreen;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.color_box_javascript {
+  /* height: 7px; */
+  width: 50%;
+  height: 6px;
+  background-color: darkolivegreen;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.color_box_react {
+  width: 50%;
+  height: 6px;
+  background-color: darkolivegreen;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.color_box_next {
+  width: 50%;
+  height: 6px;
+  background-color: darkolivegreen;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.color_box_git {
+  /* height: 7px; */
+  width: 50%;
+  height: 6px;
+  background-color: darkolivegreen;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}

@@ -1,0 +1,66 @@
+@font-face {
+  font-family: IRANSansWeb;
+  src: url(./component/assets/font/IRANSansWeb\(FaNum\).woff2);
+}
+@font-face {
+  font-family: IRANSansWeb;
+  src: url(./component/assets/font/IRANSansWeb\(FaNum\)_Medium.woff2);
+}
+
+@font-face {
+  font-family: IRANSansWeb;
+  src: url(./component/assets/font/IRANSansWeb\(FaNum\)_Light.woff2);
+}
+@font-face {
+  font-family: Mikhak;
+  src: url(./component/assets/font/Mikhak-Medium.woff2);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: IRANSansWeb;
+  direction: rtl;
+}
+body {
+  background-color: #85ffbd;
+  background-image: linear-gradient(45deg, #85ffbd 0%, #fffb7d 100%);
+
+  /* background-color: #fbab7e;
+  background-image: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%); */
+
+  /* background-color: #ff3cac;
+  background-image: linear-gradient(
+    225deg,
+    #ff3cac 0%,
+    #784ba0 50%,
+    #2b86c5 100%
+  ); */
+
+  /* background-color: #fee140;
+  background-image: linear-gradient(
+    118deg,
+    #fee140 0%,
+    #fa709a 50%,
+    #ffffff 100%
+  ); */
+
+  /* background-color: #ffdee9;
+  background-image: linear-gradient(
+    135deg,
+    #ffdee9 0%,
+    #b5fffc 95%,
+    #ffffff 100%
+  ); */
+
+  /* background-color: #4b086d;
+  background-image: linear-gradient(
+    135deg,
+    #283048 0%,
+    #859398 95%,
+    #ffffff 100%
+  ); */
+
+  overflow-x: hidden;
+}

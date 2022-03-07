@@ -1,0 +1,18 @@
+.footer_container {
+  width: 100vw;
+  height: 70px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.github a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+.copyright {
+  padding: 10px 20px;
+}
